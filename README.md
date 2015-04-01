@@ -1,4 +1,4 @@
-Yii2 Active Grid extension
+Yii2 Geometry Extension
 ===========
 
 ## Description
