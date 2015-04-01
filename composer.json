@@ -1,5 +1,5 @@
 {
-	"name": "webulla/extension-geometry",
+	"name": "webulla/yii2-extension-geometry",
 	"type": "yii2-extension",
 	"description": "Geometry component for well known text (wkt) files",
 	"keywords": ["webulla", "yii2", "yii2-component", "wkt", "google"],
@@ -17,7 +17,7 @@
 
 	"autoload": {
 		"psr-4": {
-			"webulla\\components\\geometry": ""
+			"webulla\\extensions\\geometry": ""
 		}
 	}
 }
