@@ -1,4 +1,4 @@
-Yii2 Geometry Component
+Yii2 Geometry Extension
 ===========
 
 ## Description
@@ -12,7 +12,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-$ ./composer require "webulla/yii2-component-geometry"
+$ ./composer require "webulla/yii2-extension-geometry"
 ```
 
 ## Usage

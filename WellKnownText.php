@@ -6,17 +6,17 @@
  * Contact:     gustarus@gmail.com
  */
 
-namespace webulla\components\geometry;
+namespace webulla\extensions\geometry;
 
-use webulla\components\geometry\base\Geometry;
-use webulla\components\geometry\base\GeometryCollection;
-use webulla\components\geometry\geometries\LinearRing;
-use webulla\components\geometry\geometries\LineString;
-use webulla\components\geometry\geometries\MultiLineString;
-use webulla\components\geometry\geometries\MultiPoint;
-use webulla\components\geometry\geometries\MultiPolygon;
-use webulla\components\geometry\geometries\Point;
-use webulla\components\geometry\geometries\Polygon;
+use webulla\extensions\geometry\base\Geometry;
+use webulla\extensions\geometry\base\GeometryCollection;
+use webulla\extensions\geometry\geometries\LinearRing;
+use webulla\extensions\geometry\geometries\LineString;
+use webulla\extensions\geometry\geometries\MultiLineString;
+use webulla\extensions\geometry\geometries\MultiPoint;
+use webulla\extensions\geometry\geometries\MultiPolygon;
+use webulla\extensions\geometry\geometries\Point;
+use webulla\extensions\geometry\geometries\Polygon;
 
 /**
  * Class WKT

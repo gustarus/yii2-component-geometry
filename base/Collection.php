@@ -6,7 +6,7 @@
  * Contact:     gustarus@gmail.com
  */
 
-namespace webulla\components\geometry\base;
+namespace webulla\extensions\geometry\base;
 
 use Iterator;
 

@@ -6,9 +6,9 @@
  * Contact:     gustarus@gmail.com
  */
 
-namespace webulla\components\geometry\geometries;
+namespace webulla\extensions\geometry\geometries;
 
-use webulla\components\geometry\base\Collection;
+use webulla\extensions\geometry\base\Collection;
 use yii\base\Exception;
 
 class LineString extends Collection {
@@ -20,7 +20,7 @@ class LineString extends Collection {
 
 
 	/**
-	 * @param \webulla\components\geometry\base\Geometry[] $components
+	 * @param \webulla\extensions\geometry\base\Geometry[] $components
 	 * @throws \yii\base\Exception
 	 */
 	public function setComponents($components) {

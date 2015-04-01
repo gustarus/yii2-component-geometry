@@ -6,9 +6,9 @@
  * Contact:     gustarus@gmail.com
  */
 
-namespace webulla\components\geometry\geometries;
+namespace webulla\extensions\geometry\geometries;
 
-use webulla\components\geometry\base\Collection;
+use webulla\extensions\geometry\base\Collection;
 
 class MultiPolygon extends Collection {
 

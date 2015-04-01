@@ -6,9 +6,9 @@
  * Contact:     gustarus@gmail.com
  */
 
-namespace webulla\components\geometry\geometries;
+namespace webulla\extensions\geometry\geometries;
 
-use webulla\components\geometry\base\Geometry;
+use webulla\extensions\geometry\base\Geometry;
 use yii\base\Exception;
 
 class Point extends Geometry {
