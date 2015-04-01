@@ -1,0 +1,23 @@
+{
+	"name": "webulla/component-geometry",
+	"type": "yii2-extension",
+	"description": "Geometry component for well known text (wkt) files",
+	"keywords": ["webulla", "yii2", "yii2-component", "wkt", "google"],
+	"license": "BSD-3-Clause",
+	"authors": [
+		{
+			"name": "Pavel Kondratenko",
+			"email": "gustarus@gmail.com"
+		}
+	],
+
+	"require": {
+		"yiisoft/yii2": "*"
+	},
+
+	"autoload": {
+		"psr-4": {
+			"webulla\\components\\geometry": ""
+		}
+	}
+}
