@@ -1,4 +1,4 @@
-Yii2 Geometry Extension
+Yii2 Geometry Component
 ===========
 
 ## Description
