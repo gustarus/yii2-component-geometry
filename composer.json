@@ -17,7 +17,7 @@
 
 	"autoload": {
 		"psr-4": {
-			"webulla\\extensions\\geometry": ""
+			"webulla\\extensions\\geometry\\": ""
 		}
 	}
 }
